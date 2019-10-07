@@ -1,5 +1,5 @@
 # SDI
-Software Implementation and Design
+Software Design and Implementation
 ## Project Description
 ## Group
 ## Tutor
